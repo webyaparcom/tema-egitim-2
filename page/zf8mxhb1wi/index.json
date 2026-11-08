@@ -1,0 +1,41 @@
+{
+  "id": "zf8mxhb1wi",
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "description": {
+    "tr": "Meşe Koleji, öğrenme hızına saygıyı ve veliyle şeffaf iletişimi esas alan kurgusal bir demo okuldur. Bu sitedeki kurum kodu, ad ve bilgiler kurgusaldır; çocuk fotoğrafı kullanılmamıştır.",
+    "en": "Mese College is a fictional demo school built on respect for each learning pace and open communication with parents. The institution code, names and details on this site are fictional; no photographs of children are used.",
+    "ar": "ميشه كوليج مدرسة تجريبية افتراضية تقوم على احترام وتيرة التعلم والتواصل الشفاف مع أولياء الأمور. رمز المؤسسة والأسماء والبيانات في هذا الموقع افتراضية، ولم تُستخدم صور أطفال."
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "path": "hakkimizda",
+  "icon": "info",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "wxz0lh",
+      "r3ga7x",
+      "bu36i0"
+    ],
+    "footer": []
+  },
+  "index": 5,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "date": "2026-10-31T14:23:00.905Z",
+  "update": "2026-11-05T22:24:50.788Z"
+}

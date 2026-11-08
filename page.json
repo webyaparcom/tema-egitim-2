@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "id": "ktgsn35knf",
+      "name": {
+        "tr": "Kademeler",
+        "en": "Levels",
+        "ar": "المراحل"
+      },
+      "description": {
+        "tr": "Kademelere göre program, sınıf yapısı ve rehberlik desteği.",
+        "en": "Programme, class structure and guidance support by level.",
+        "ar": "البرنامج وبنية الصفوف والدعم الإرشادي بحسب المرحلة."
+      },
+      "path": "kademeler",
+      "icon": "school",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "jjzzt4",
+          "edhknd",
+          "cagc14"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "aktv35f66k",
+      "name": {
+        "tr": "Önkayıt",
+        "en": "Pre-enrolment",
+        "ar": "التسجيل المسبق"
+      },
+      "description": {
+        "tr": "Kademeyi ve uygun günü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur. Öğrenci bilgisi istenmez.",
+        "en": "Choose a level and a convenient day; on this demo site your request is created only in your browser. No student details are requested.",
+        "ar": "اختر المرحلة واليوم المناسب؛ يُنشأ طلبك في متصفحك فقط. لا تُطلب بيانات الطالب."
+      },
+      "path": "on-kayit",
+      "icon": "how_to_reg",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "gvt6pz"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "969hax8blq",
+      "name": {
+        "tr": "Akademik Takvim",
+        "en": "Academic Calendar",
+        "ar": "التقويم الأكاديمي"
+      },
+      "description": {
+        "tr": "Eğitim-öğretim yılının örnek takvimi.",
+        "en": "A sample calendar of the school year.",
+        "ar": "تقويم نموذجي للعام الدراسي."
+      },
+      "path": "akademik-takvim",
+      "icon": "calendar_month",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "sol985"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "f2n63fl94j",
+      "name": {
+        "tr": "Sıkça Sorulan Sorular",
+        "en": "FAQ",
+        "ar": "الأسئلة الشائعة"
+      },
+      "description": {
+        "tr": "Sıkça sorulan sorular ve yanıtları.",
+        "en": "Frequently asked questions and answers.",
+        "ar": "الأسئلة الشائعة وإجاباتها."
+      },
+      "path": "sss",
+      "icon": "help",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "m9q4c7",
+          "cagc14"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "ppm2snj5tg",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Sınıf, kütüphane, laboratuvar ve bahçeden görüntüler; çocuk görseli yoktur.",
+        "en": "Views of classrooms, library, laboratory and garden; no images of children.",
+        "ar": "صور من الصفوف والمكتبة والمختبر والحديقة؛ دون صور أطفال."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "hcojyl"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "id": "zf8mxhb1wi",
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About",
+        "ar": "من نحن"
+      },
+      "description": {
+        "tr": "Meşe Koleji, öğrenme hızına saygıyı ve veliyle şeffaf iletişimi esas alan kurgusal bir demo okuldur. Bu sitedeki kurum kodu, ad ve bilgiler kurgusaldır; çocuk fotoğrafı kullanılmamıştır.",
+        "en": "Mese College is a fictional demo school built on respect for each learning pace and open communication with parents. The institution code, names and details on this site are fictional; no photographs of children are used.",
+        "ar": "ميشه كوليج مدرسة تجريبية افتراضية تقوم على احترام وتيرة التعلم والتواصل الشفاف مع أولياء الأمور. رمز المؤسسة والأسماء والبيانات في هذا الموقع افتراضية، ولم تُستخدم صور أطفال."
+      },
+      "path": "hakkimizda",
+      "icon": "info",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "wxz0lh",
+          "r3ga7x",
+          "bu36i0"
+        ],
+        "footer": []
+      },
+      "index": 5
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "xnzu5au0ag",
+      "url": "",
+      "path": "iletisim",
+      "index": 6,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "t6ct01",
+          "t6mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon, e-posta ve çalışma saatleri.",
+        "en": "Address, phone, e-mail and opening hours.",
+        "ar": "العنوان والهاتف والبريد الإلكتروني وساعات العمل."
+      }
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "detail": true,
+    "body": true
+  }
+}
