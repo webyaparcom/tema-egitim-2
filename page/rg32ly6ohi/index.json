@@ -26,7 +26,7 @@
     ],
     "footer": []
   },
-  "index": 8,
+  "index": 9,
   "url": "",
   "text": {
     "tr": "<h2>Kurum izin bilgileri</h2><p>Meşe Koleji Özel Okulu, bu demo sitede Millî Eğitim Bakanlığına bağlı özel okul olarak kurgulanmıştır. Kurum kodu ve açma izni numarası örnektir (DEMO) ve gerçek bir kuruma ait değildir.</p><p>Kurum adı, kodu ve izin bilgileri her zaman Bakanlık kayıtlarıyla birebir aynı yazılır; kapatılmış kurum türü adları kullanılmaz.</p><p><em>Demo sitedir; içerik kurgusaldır.</em></p>",
@@ -39,5 +39,5 @@
     "ar": "بيانات المؤسسة"
   },
   "date": "2026-10-31T14:23:00.888Z",
-  "update": "2026-11-05T22:24:50.815Z"
+  "update": "2026-11-12T07:35:25.662Z"
 }

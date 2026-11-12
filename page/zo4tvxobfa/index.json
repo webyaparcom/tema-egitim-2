@@ -1,0 +1,39 @@
+{
+  "id": "zo4tvxobfa",
+  "name": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "description": {
+    "tr": "Sınıf, kütüphane, laboratuvar ve bahçeden görüntüler; çocuk görseli yoktur.",
+    "en": "Views of classrooms, library, laboratory and garden; no images of children.",
+    "ar": "صور من الصفوف والمكتبة والمختبر والحديقة؛ دون صور أطفال."
+  },
+  "keyword": {
+    "tr": "galeri, fotoğraf",
+    "en": "gallery, photos",
+    "ar": "معرض، صور"
+  },
+  "path": "galeri",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "hcojyl"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "date": "2026-11-12T07:18:24.128Z",
+  "update": "2026-11-12T07:18:24.134Z"
+}
