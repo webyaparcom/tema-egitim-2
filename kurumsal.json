@@ -1,8 +1,30 @@
 {
-  "name": "Kurumsal",
-  "path": "kurumsal",
-  "desc": [],
   "data": [
+    {
+      "id": "zo4tvxobfa",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Sınıf, kütüphane, laboratuvar ve bahçeden görüntüler; çocuk görseli yoktur.",
+        "en": "Views of classrooms, library, laboratory and garden; no images of children.",
+        "ar": "صور من الصفوف والمكتبة والمختبر والحديقة؛ دون صور أطفال."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "hcojyl"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
     {
       "name": {
         "tr": "Hakkımızda",
@@ -22,7 +44,7 @@
         ],
         "footer": []
       },
-      "index": 0,
+      "index": 1,
       "icon": "home",
       "description": {
         "tr": "Hakkımızda",
@@ -48,7 +70,7 @@
         ],
         "footer": []
       },
-      "index": 1,
+      "index": 2,
       "icon": "home",
       "description": {
         "tr": "Misyonumuz",
@@ -74,7 +96,7 @@
         ],
         "footer": []
       },
-      "index": 2,
+      "index": 3,
       "icon": "home",
       "description": {
         "tr": "Vizyonumuz",
@@ -100,7 +122,7 @@
         ],
         "footer": []
       },
-      "index": 3,
+      "index": 4,
       "icon": "home",
       "description": {
         "tr": "Kalite politikamız",
@@ -126,7 +148,7 @@
         ],
         "footer": []
       },
-      "index": 4,
+      "index": 5,
       "icon": "home",
       "description": {
         "tr": "Gizlilik politikası",
@@ -152,7 +174,7 @@
         ],
         "footer": []
       },
-      "index": 5,
+      "index": 6,
       "icon": "home",
       "description": {
         "tr": "Kişisel verilerin korunması",
@@ -178,7 +200,7 @@
         ],
         "footer": []
       },
-      "index": 6,
+      "index": 7,
       "icon": "home",
       "description": {
         "tr": "Kullanıcı hakları",
@@ -204,7 +226,7 @@
         ],
         "footer": []
       },
-      "index": 7,
+      "index": 8,
       "icon": "home",
       "description": {
         "tr": "Yasal uyarı",
@@ -235,10 +257,10 @@
         ],
         "footer": []
       },
-      "index": 8
+      "index": 9
     }
   ],
-  "index": 2,
+  "desc": [],
   "desing": {
     "header": [],
     "body": [
