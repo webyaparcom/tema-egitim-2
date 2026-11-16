@@ -2,7 +2,7 @@
   "id": "969hax8blq",
   "name": {
     "tr": "Akademik Takvim",
-    "en": "Academic Calendar",
+    "en": "Calendar",
     "ar": "التقويم الأكاديمي"
   },
   "description": {
@@ -35,5 +35,5 @@
     "ar": "التقويم الأكاديمي"
   },
   "date": "2026-10-31T14:23:00.885Z",
-  "update": "2026-11-14T13:53:42.903Z"
+  "update": "2026-11-16T06:58:13.866Z"
 }
